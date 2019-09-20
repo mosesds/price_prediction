@@ -1,0 +1,6 @@
+Linear = 213.85398700020102
+Polynomial = 207.25558936634354
+RBF = 225.02846978354552
+The actual value was 224.080002.
+The closest value was 225.02846978354552.
+The percent error was 0.42%.
